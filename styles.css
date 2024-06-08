@@ -1,0 +1,44 @@
+/* /css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9d9500;
+    color: #fff;
+    padding: 15px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 25x;
+}
+
+nav ul li a {
+    color: #beff32;
+    text-decoration: none;
+}
+
+nav ul li.active a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #9d9500;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
