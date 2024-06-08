@@ -1,5 +1,5 @@
 <!-- /about.php -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 <main>
     <h1>About Us</h1>
     <?php
@@ -16,4 +16,4 @@
         <?php endforeach; ?>
     </ul>
 </main>
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
