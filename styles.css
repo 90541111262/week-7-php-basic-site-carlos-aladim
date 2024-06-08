@@ -20,7 +20,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0 25x;
+    margin: 0 25px;
 }
 
 nav ul li a {
@@ -42,3 +42,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
