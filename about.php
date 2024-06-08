@@ -5,8 +5,8 @@
     <?php
     $team = [
         ["name" => "Pelé", "role" => "CEO"],
-        ["name" => "Romario", "role" => "CTO"],
-        ["name" => "Ronaldo Nazario", "role" => "CFO"],
+        ["name" => "Romário", "role" => "CTO"],
+        ["name" => "Ronaldo Nazário", "role" => "CFO"],
     ];
     ?>
     <h2>Our Team</h2>
