@@ -1,5 +1,5 @@
 <!-- /about.php -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 <main>
     <h1>About Us</h1>
     <?php
