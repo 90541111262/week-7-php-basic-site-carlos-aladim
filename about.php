@@ -16,4 +16,4 @@
         <?php endforeach; ?>
     </ul>
 </main>
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
